@@ -1,4 +1,5 @@
 
+
 # Student Task Manager 🎓
 
 A simple web application designed to help students organize and manage their daily academic tasks.
@@ -26,3 +27,6 @@ A simple web application designed to help students organize and manage their dai
 
 ## Author
 Student Developer
+# Student-Task-Manager
+A simple Student Task Manager web application built using HTML, CSS, and JavaScript to organize daily tasks, track deadlines, and manage completed and pending assignments.
+ 513f2590319a0ad23c4123622d2fa0ff7c2bfab2
